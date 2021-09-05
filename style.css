@@ -1,0 +1,40 @@
+.our_class {
+  background-color: #888;
+  border: 1px solid black;
+  text-align: center;
+}
+.color {
+  color: aqua;
+}
+.table {
+  font-size: 16px;
+  text-align: center;
+}
+.card {
+  width: 400px;
+}
+.card .card-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  float: left;
+}
+.img-fluid.rounded-circle {
+  height: 300px;
+  width: 300px;
+}
+#btn-style:hover {
+  background: transparent;
+  border: 1px solid #007bff;
+  color: #007bff;
+}
+.navbar-brand img {
+  /* height: 75px; */
+  width: 50px;
+}
+.navbar-nav {
+  float: right;
+}
+.card {
+  width: 310px;
+}
